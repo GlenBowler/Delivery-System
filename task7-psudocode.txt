@@ -1,0 +1,28 @@
+Get the following customer details in Strings: 
+Name
+Surname 
+Location
+Phone Number
+OrderNumber
+Email Adress
+Get resturant details and display their menu for customer in integer:
+single burger price
+double burger price
+triple burger price
+amount of single buger
+amount of double burger
+amount of triple burger
+total amount for all the burgers
+Let customer order from menu by asking customer what burgers they want by entering integer number. Menu is in a while loop quit loop when selectigng 4:
+1-Single
+2-Double
+3-Triple
+4-Done with order
+Ask user if want any specail order on his meal and storing inside a string
+Use a if statement to compare resturant location to customer location
+if same will access the driver.txt file
+once access driver.txt access the drivers split each line into a array and splitting using ,
+Accessing the 2nd element in array that stored the location and compare to location of client using if statement storing the whole driver to array that locaiton is the same
+Access the array and use 3rd element to get driver with the least trips and save that name inside a string as driver that will do the load
+return the string of driver that will do load
+compile all the data about customer details,his order ,driver details and restaurant details and save inside file called invoice
